@@ -1,0 +1,63 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+baseurl                 = "https://renganathanr.github.io/"
+DefaultContentLanguage  = "en"
+title                   = "Renganathan's Personal Website"
+theme                   = "imperfect-slim-master"
+paginate                = 3
+
+[params]
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  readingTime           = true
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
+                          "pinterest", "email"]
+
+  [params.header]
+    navbarTitle         = "Renganathan's Personal Website"
+    shareMenu           = true
+
+  [params.footer]
+    socialFooter        = true
+
+[menu]
+
+  [[menu.main]]
+    name              = "Home"
+    url               = "/"
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "About"
+    url               = "/about/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Blog"
+    url               = "/posts/"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Projects"
+    url               = "/categories/"
+    pre               = "<i class='fas fa-tasks'></i>"
+    weight            = 4
+
+    [[menu.main]]
+      name              = "Resume"
+      url               = "/contact/"
+      pre               = "<i class='fas fa-file'></i>"
+      weight            = 5
+
+  [[menu.main]]
+    name              = "Contact"
+    url               = "/contact/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 6
+
+[social]
+  # Coding Communities
+  github                = "renganathanr"
