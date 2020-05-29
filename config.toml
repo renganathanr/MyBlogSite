@@ -3,8 +3,8 @@
 baseurl                 = "https://renganathanr.github.io/"
 DefaultContentLanguage  = "en"
 title                   = "Renganathan's Personal Website"
-theme                   = "imperfect-slim-master"
-paginate                = 3
+theme                   = "imperfect-slim"
+paginate                = 6
 
 [params]
   cssFiles              = ["default"]
@@ -36,19 +36,19 @@ paginate                = 3
 
   [[menu.main]]
     name              = "Blog"
-    url               = "/posts/"
+    url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
   [[menu.main]]
     name              = "Projects"
-    url               = "/categories/"
+    url               = "/projects/"
     pre               = "<i class='fas fa-tasks'></i>"
     weight            = 4
 
     [[menu.main]]
       name              = "Resume"
-      url               = "/contact/"
+      url               = "/resume/"
       pre               = "<i class='fas fa-file'></i>"
       weight            = 5
 
