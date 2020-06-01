@@ -3,6 +3,7 @@ author: "Renganathan"
 title: "SpringCourses"
 date: 2020-05-28T18:43:37-04:00
 draft: false
+tags: ["RIT","Masters"]
 ---
 # Courses taken in Spring semester=> CGPA: 3.3
 ## 1. Introduction to Optimal Design=> Grade: B+

@@ -3,6 +3,7 @@ author: "Renganathan"
 title: "MyFirstPost"
 date: 2020-05-24T21:50:53-04:00
 draft: false
+tags: ["RIT","Masters"]
 ---
 
 ## About me
