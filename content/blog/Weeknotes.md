@@ -1,7 +1,7 @@
 ---
 title: "Weeknotes"
 date: 2020-06-01T09:58:28-04:00
-draft: true
+draft: false
 tags: ["weeknotes","05242020","blog"]
 ---
 ## Weeknotes-05242020
