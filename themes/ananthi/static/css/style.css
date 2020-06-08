@@ -1,0 +1,32 @@
+/* For logo in the navbar */
+.logo h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
+/* For footer menu */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+/* For main section includes extra space in terms of insufficient content */
+main {
+    flex: 1;
+}
+/* For resolution of content on a single page */
+.max-800px {
+    max-width: 800px;
+}
+/* For adding space between title image and body of the post */
+/* .title-image {
+    padding-bottom: 2em;
+} */
+/* For hero-content in about page */
+.narrow-background {
+    display: table;
+    padding: 0.1em;
+}
+/* For related cards' size */
+.card {
+    height: 100%;
+}

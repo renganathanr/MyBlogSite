@@ -1,63 +1,73 @@
-# For a description of these parameters, please visit the theme wiki.
-# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://renganathanr.github.io/"
-DefaultContentLanguage  = "en"
 title                   = "Renganathan's Personal Website"
-theme                   = "imperfect-slim"
-paginate                = 6
+theme                   = "ananthi"
+languageCode            = "en"
+defaultContentLanguage  = "en"
+
+paginate                = 10
+googleAnalytics         = "UA-123-45"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 
 [params]
-  cssFiles              = ["default"]
-  jsFiles               = ["default"]
-  readingTime           = true
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
-                          "pinterest", "email"]
+    author = "Renganathan"
+    authorImage = "/images/ProfilePhoto.jpg"
+    description = "A site for information"
 
-  [params.header]
-    navbarTitle         = "Renganathan's Personal Website"
-    shareMenu           = true
-
-  [params.footer]
-    socialFooter        = true
-
-[menu]
+[navbarmenu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
 
   [[menu.main]]
-    name              = "Home"
-    url               = "/"
-    pre               = "<i class='fa fa-home'></i>"
-    weight            = 1
+      name = "Categories"
+      url = "/categories"
 
   [[menu.main]]
-    name              = "About"
-    url               = "/about/"
-    pre               = "<i class='far fa-id-card'></i>"
-    weight            = 2
+    name = "Projects"
+    url = "/projects"
 
   [[menu.main]]
-    name              = "Blog"
-    url               = "/blog/"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
+    name = "Resume"
+    url = "/resume"
 
-  [[menu.main]]
-    name              = "Projects"
-    url               = "/projects/"
-    pre               = "<i class='fas fa-tasks'></i>"
-    weight            = 4
+[socialmenu]
+  [[menu.social]]
+      name = "GitHub"
+      url = "https://github.com/renganathanr"
+      pre = "<i class='fab fa-github'></i>"
 
-    [[menu.main]]
-      name              = "Resume"
-      url               = "/resume/"
-      pre               = "<i class='fas fa-file'></i>"
-      weight            = 5
+  [[menu.social]]
+      name = "Linkedin"
+      url = "https://www.linkedin.com/in/renganathan-raja-chithambaram-18a925192/"
+      pre = "<i class='fab fa-linkedin'></i>"
 
-  [[menu.main]]
-    name              = "Contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
-[social]
-  # Coding Communities
-  github                = "renganathanr"
+[footermenu]
+  [[menu.footer]]
+    name = "About"
+    url = "/about"
+
+  [[menu.footer]]
+    name = "Privacy"
+    url = "/privacy"
+
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
