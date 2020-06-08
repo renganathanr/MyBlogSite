@@ -10,7 +10,7 @@ Github: https://github.com/renganathanr
 **Education:**  
 
     * Master's in Mechanical Engineering - Rochester Institute of Technology (Expected graduation @ 2021) - CGPA (3.3/4)
-    * Bachelor's in Electrical Engineering - Madras University, India (2017) - CGPA (6.98/10)
+    * Bachelor's in Mechanical Engineering - Anna University, India (2017) - CGPA (6.98/10)
 
 **Knowledge & Skills:**
 
