@@ -9,39 +9,40 @@ Github: https://github.com/renganathanr
 
 **Education:**  
 
-    * Master's in Mechanical Engineering - Rochester Institute of Technology (Expected graduation @ 2021) - CGPA (3.3/4)
-    * Bachelor's in Mechanical Engineering - Anna University, India (2017) - CGPA (6.98/10)
+* Master's in Mechanical Engineering - Rochester Institute of Technology (Expected graduation @ 2021) - CGPA (3.3/4)
+* Bachelor's in Mechanical Engineering - Anna University, India (2017) - CGPA (6.98/10)
 
 **Knowledge & Skills:**
 
-    * Computing knowlegde  
-        * Programming languages - Python (Novice)
-        * General Softwares - Word processors, Spreadsheets, Presentations
-        * Engineering softwares - Kiss soft, Pro-E/Creo, Fusion 360, MATLAB
-    * Technical skills
-        * 3D Printing, Computer harware diagnosis
-    * Certification
-        * Lean Six Sigma (Yellow belt)
+* Computing knowlegde  
+    * Programming languages - Python (Novice)
+    * General Softwares - Word processors, Spreadsheets, Presentations
+    * Engineering softwares - Kiss soft, Pro-E/Creo, Fusion 360, MATLAB
+* Technical skills
+    * 3D Printing, Computer harware diagnosis
+* Certification
+    * Lean Six Sigma (Yellow belt)
 
 **Work Experience:**
 
-    I got an implant training in the R&H Engineering Pvt. Ltd, an L&T sub contract company in my under graduate studies.
+I got an implant training in the R&H Engineering Pvt. Ltd, an L&T sub contract company in my under graduate studies.
 
-    Mar 2017 - Trainee - Offshore oil nad gas rig construction (1 month).
-        * Trained with a construction firm while they built offshore oil and gas rigs.
-        * Hands-on experience doing welding, riveting, and bolting.
-        * Trained in processes like material selection and quality checking.
+ Mar 2017 - Trainee - Offshore oil nad gas rig construction (1 month).
+     * Trained with a construction firm while they built offshore oil and gas rigs.
+     * Hands-on experience doing welding, riveting, and bolting.
+     * Trained in processes like material selection and quality checking.
 
 **Projects:**
 
-    Projects are showcased under the projects menu of this site.
+ Projects are showcased under the projects menu of this site.
 
 **Extracurricular Activities:**
 
-    * First graduate in my family
-    * Organized inter-college symposiums in my undergraduate college with various technical events and assisted in the fabrication of immobilized robot sculptures.
-    * Organized recreational events like Halloween House.
-    
-    Social and Community Service
-        * Organized rural waste management drives
-        * Participated in tree plantation drives
+* First graduate in my family
+* Organized inter-college symposiums in my undergraduate college with various technical events and assisted in the fabrication of immobilized robot sculptures.
+* Organized recreational events like Halloween House.
+
+Social and Community Service
+ 
+* Organized rural waste management drives
+* Participated in tree plantation drives
