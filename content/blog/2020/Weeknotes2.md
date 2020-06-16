@@ -1,7 +1,7 @@
 ---
 title: "Week2-20200531"
 date: 2020-06-07T12:39:22-04:00
-categories: ["RIT","Weeknotes"]
+categories: ["RIT","Weeknotes","Web Development"]
 ---
 As a continuity of first week, I get into learning of making a dynamic website.
 ## Goal
@@ -26,7 +26,7 @@ In the end, the works of the two group was tested for the best by the judge and 
 2. Some incidents show me how to live a married life and what are the reasons that made conflicts between a couple.
     >**Long story short:** If you need something, then you work for it.
 ## Movies
-I am from Tamil Nadu, India. Like Hollywood, my regional films called by the name **Tollywood.** I like watching movies as a refreshment. Below are the movies I watched last week.
-> **1. Ullam Ketkume** - The story revolves around a group of five friends with their love between them and how they handle the conflicts arised because of them.  
+I am from Tamil Nadu, India. Like Hollywood, my regional films called by the name **Kollywood.** I like watching movies as a refreshment. Below are the movies I watched last week.  
+**1. Ullam Ketkume** - The story revolves around a group of five friends with their love between them and how they handle the conflicts arised because of them.  
 **2. Lesa Lesa** - A love story between a rich but orphan boy and his friend's cousin.  
 **3. Nala Damayanthi** - A love story between a boy from India and a girl from Australia while they married because of getting immigration status for the boy.

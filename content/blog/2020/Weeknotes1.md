@@ -1,7 +1,7 @@
 ---
 title: "Week1-20200524"
 date: 2020-06-01T09:58:28-04:00
-categories: ["RIT","Weeknotes"]
+categories: ["RIT","Weeknotes","Web Development"]
 ---
 This is my first week I wrote week notes for my blog. In this week I learned so many information about creation of a web application.
 
