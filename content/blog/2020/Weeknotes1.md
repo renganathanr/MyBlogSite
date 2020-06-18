@@ -9,7 +9,7 @@ First I learned that there exists two types of website. One is static site and a
 
 Of these types, first I learned how to create a static website. The ways that I learned to create a static site:
 
->Note: This is one article that I used to look up for clarification for first two methods. https://www.websitebuilderexpert.com/building-websites/
+>This is one article that I used to look up for clarification for the following first two methods - [How to Build a Website 2020.](https://www.websitebuilderexpert.com/building-websites/)
 
 1. Using a website builder like Wix, Squarespace, Weebly, and Site123. [required service charges]
 2. Using WordPress. [required service charges]
@@ -17,7 +17,7 @@ Of these types, first I learned how to create a static website. The ways that I 
 
 I was using the third method to create my first blog site. I am using Hugo as a static site generator. In the first two methods they are mentioning that choosing a domain name and hosting services for your site. I am using GitHub pages to host my site.
 # Steps to create my site
->Note: In the first, I used this article to create my site and use GitHub to host my pages. https://pulsejet.github.io/blog/posts/setting-up-hugo-on-github-pages/. But it didn't work for me.
+>In the first, I used this article to create my site and use GitHub Pages to host my site - [Setting up Hugo on GitHub Pages](https://pulsejet.github.io/blog/posts/setting-up-hugo-on-github-pages/). But it didn't work for me.
 ## Prerequisites
 * Basics of git
 * Basics of markdown
@@ -25,8 +25,8 @@ I was using the third method to create my first blog site. I am using Hugo as a 
 
 >Fun experience: Make sure the spelling you used for the name and address of the site correct. Because I used to misspelled the site address in the first place and getting desperate about my site getting not worked.
 
-Then I followed this link to successfully create my own site. https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7
+Then I followed this link to successfully create my own site - [Build a Personal Website With GitHub Pages and Hugo.](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7)
 
 The problem with the first link I followed was with the publish directory. That was clearly explained in the second link. Finally I push all my site files into GitHub repository which was best explained by my brother.
 
-Finally I created my site which was hosted by github pages: https://renganathanr.github.io
+Finally I created my site which was hosted by github pages: [Renganthan's Personal Site](https://renganathanr.github.io)
