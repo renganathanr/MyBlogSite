@@ -3,7 +3,7 @@ title: "Week3-20200607"
 date: 2020-06-15T19:08:09-04:00
 categories: ["RIT","Weeknotes","Web Development"]
 ---
-This week I learned the basics of sqlite database with the help of a website named execute program and its link - [Basic working with SQLite](https://www.executeprogram.com/courses/sql) and simultaneously created a basic todo webapp using a Youtube tutorial -  [Learn Flask for Python - Full Tutorial.](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+This week I learned the basics of sqlite database with the help of a website named execute program and its link - [Basic working with SQLite](https://www.executeprogram.com/courses/sql) and simultaneously created a basic todo webapp using a Youtube tutorial - [Learn Flask for Python - Full Tutorial.](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 # SQLite learning process
 The website uses a good strategy **(Spaced Repetition system)** to teach the required content and only 16 lessons are free. So it takes the whole week to progress through the free lessons.
 # Basic todo webapp
